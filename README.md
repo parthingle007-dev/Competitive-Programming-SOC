@@ -84,3 +84,4 @@ Through these problems, I practiced:
 ## Note
 
 This repository contains only solution codes. Problem statements can be accessed through the links provided above.
+Please download the LaTex report file to view.
