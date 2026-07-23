@@ -64,8 +64,6 @@ The following concepts have been studied and practiced:
 ├── Sheet2/
 ├── CSES/
 ├── Codeforces/
-├── LeetCode/
-└── Topic-wise Practice/
 ```
 
 *(The repository structure will continue to expand as more topics and solutions are added.)*
@@ -103,19 +101,6 @@ Through this learning journey, I have improved my ability to:
 ## Language Used
 
 - C++
-
----
-
-## Future Work
-
-The repository will continue to be updated with:
-
-- Additional Codeforces practice
-- Higher-rated contest problems
-- Graph Algorithms
-- Trees
-- Advanced Dynamic Programming
-- Other advanced Competitive Programming topics
 
 ---
 
