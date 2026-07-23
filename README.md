@@ -106,6 +106,6 @@ Through this learning journey, I have improved my ability to:
 
 ## Note
 
-This repository contains only solution code. Problem statements belong to their respective platforms and can be accessed through the official links.
+This repository contains only solution code. Problem statements belong to their respective platforms.
 
 The repository represents my ongoing learning journey and will be updated throughout the Summer Learning Program.
